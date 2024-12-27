@@ -1,0 +1,9 @@
+UID: 51; Email: user51@company.com;
+Activity Log:
+0. [deleted record] at 2024-12-27T11:21:13+01:00
+1. [logged in] at 2024-12-27T11:21:13+01:00
+2. [logged in] at 2024-12-27T11:21:13+01:00
+3. [logged in] at 2024-12-27T11:21:13+01:00
+4. [created record] at 2024-12-27T11:21:13+01:00
+5. [created record] at 2024-12-27T11:21:13+01:00
+6. [deleted record] at 2024-12-27T11:21:13+01:00
